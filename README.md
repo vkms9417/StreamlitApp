@@ -1,1 +1,1 @@
-# StreamlitApp
+# WishWeightPredictionApplication
